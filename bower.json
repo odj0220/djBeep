@@ -1,0 +1,14 @@
+{
+  "name": "beepjs",
+  "description": "",
+  "main": "beep",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
